@@ -1,0 +1,19 @@
+***CHUCK NORRIS JOKES***
+
+curl https://api.icndb.com/jokes/random
+
+curl -H "Accept: application/json" https://api.icndb.com/jokes/random
+
+curl -vv https://api.icndb.com/jokes/random
+
+curl -vv -H "Accept: application/json" https://api.icndb.com/jokes/random
+
+***DAD JOKES***
+
+curl https://icanhazdadjoke.com/
+
+curl -H "Accept: application/json" https://icanhazdadjoke.com/
+
+curl -vv https://icanhazdadjoke.com/
+
+curl -vv -H "Accept: application/json" https://icanhazdadjoke.com/
